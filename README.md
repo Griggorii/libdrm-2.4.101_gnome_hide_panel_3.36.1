@@ -8,7 +8,7 @@ install https://github.com/Griggorii/mesa-20.0.2_V3
 
 2) open in folder libdrm-2.4.101_gnome_hide_panel_3.36.1 terminal run command copy paste enter
 
-$ sudo tar xvpf libdrm-2.4.101_gnome_hide_panel.tar.xz  -C /
+$ sudo tar xvpf libdrm-2.4.101_gnome_hide_panel_3.36.1.tar.xz  -C /
 
 3) power internet reinstall stable nouveau NVD7 terminal run command copy paste enter
 
