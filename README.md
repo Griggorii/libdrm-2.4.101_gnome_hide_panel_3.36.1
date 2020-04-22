@@ -1,5 +1,5 @@
 # libdrm-2.4.101_gnome_hide_panel_3.36.1_hide_bar_panel
-libdrm-2.4.101 , amd64 , wayland , plank conflict hide , omap , libkms , freedreno , exynos , xf86drm , include
+libdrm-2.4.101 , amd64 , wayland , plank conflict hide , omap , libkms , freedreno , exynos , xf86drm , include , wayland
 
 
 1). download install mesa-20.0.2_V3 https://github.com/Griggorii/mesa-20.0.2_V3
@@ -9,3 +9,5 @@ libdrm-2.4.101 , amd64 , wayland , plank conflict hide , omap , libkms , freedre
 $ sudo tar xvpf libdrm-2.4.101_gnome_hide_panel_3.36.1.tar.xz  -C /
 
 Proview https://youtu.be/Co-6k1I_TmQ
+
+
