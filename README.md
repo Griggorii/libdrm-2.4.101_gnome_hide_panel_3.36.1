@@ -6,4 +6,4 @@ libdrm-2.4.101 , gnome , hide , panel , 3.36.1 , amd64 , wayland , plank conflic
 
 2) sudo tar xvpf libdrm-2.4.101_gnome_hide_panel.tar.xz  -C /
 
-Proview
+Proview https://youtu.be/Co-6k1I_TmQ
