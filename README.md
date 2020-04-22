@@ -1,5 +1,5 @@
 # libdrm-2.4.101_gnome_hide_panel_3.36.1
-libdrm-2.4.101 , amd64 , wayland , plank conflict hide , omap , libkms , freedreno , exynos , xf86drm , include
+libdrm-2.4.101 , amd64 , wayland , plank conflict hide , omap , libkms , freedreno , exynos , vc4 , xf86drm , include
 
 
 1) install mesa-20.0.2_V3
