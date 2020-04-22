@@ -1,4 +1,4 @@
-# libdrm-2.4.101_gnome_hide_panel_3.36.1
+# libdrm-2.4.101_gnome_hide_panel_3.36.1_hide_bar_panel
 libdrm-2.4.101 , amd64 , wayland , plank conflict hide , omap , libkms , freedreno , exynos , xf86drm , include
 
 
